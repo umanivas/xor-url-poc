@@ -1,0 +1,10 @@
+{
+  "name": "xor-url-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cids": "^0.6.0",
+    "multihashes": "^0.4.14"
+  }
+}
